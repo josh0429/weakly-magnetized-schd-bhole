@@ -1,0 +1,2 @@
+# Charged Particle Dynamics in a Weakly Magnetized Schwarzschild Black Hole
+Here are Mathematica notebooks I made for analyzing some aspects of charged particle motion in a weakly magnetized Schwarzschild black hole. This is an extension to the study done by [Al Zahrani et al.](https://arxiv.org/abs/1301.4633v1)
